@@ -74,18 +74,19 @@ Mobile-Programming
 
 ## Daftar Pertemuan dan Project
 
-| Pertemuan | Topik                                            | Project / Materi                 | Blog                                                                                                     |
-| --------- | ------------------------------------------------ | -------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 1         | Review Perkembangan Teknologi Perangkat Bergerak | Artikel Review                   | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-1-ppb-review-perkembangan.html)     |
-| 2         | Membuat Aplikasi Hello Android                   | `week-2/HelloAndroid`            | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-2-ppb-membuat-aplikasi-hello.html)  |
-| 3         | Membuat Aplikasi Ulang Tahun                     | `week-3/HappyBirthday`           | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemaun-3-ppb-membuat-aplikasi-ulang.html)  |
-| 5         | Komponen Button — Dice Roller                    | `week-5/DiceRoller`              | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-5-ppb-komponen-button-dice.html)    |
-| 6         | Membuat Aplikasi Kalkulator Sederhana            | `week-6/Calculator`              | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-6-ppb-membuat-aplikasi.html)        |
-| 7         | Membuat Halaman Simple Login                     | `week-7/MyLogin`                 | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-7-ppb-membuat-halaman-simple.html)  |
-| 11        | Membuat Aplikasi Marketplace Siswa               | `week-11/MarketSiswa`            | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-8-ppb-membuat-aplikasi.html)        |
-| 12        | Membuat Aplikasi Login Menggunakan MVVM          | `week-12/LoginMVVMApp`           | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-12-ppb-membuat-aplikasi-login.html) |
-| 13        | Membuat Aplikasi Registrasi Siswa                | `week-13/StudentRegistrationApp` | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-13-ppb-membuat-aplikasi.html)       |
-| 14        | Membuat Aplikasi Berita Menggunakan REST API     | `week-14/NewsPulseApp`           | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-14-ppb-membuat-aplikasi.html)       |
+| Pertemuan | Topik                                                   | Project / Materi                 | Blog                                                                                                     |
+| --------- | ------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 1         | Review Perkembangan Teknologi Perangkat Bergerak        | Artikel Review                   | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-1-ppb-review-perkembangan.html)     |
+| 2         | Membuat Aplikasi Hello Android                          | `week-2/HelloAndroid`            | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-2-ppb-membuat-aplikasi-hello.html)  |
+| 3         | Membuat Aplikasi Ulang Tahun                            | `week-3/HappyBirthday`           | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemaun-3-ppb-membuat-aplikasi-ulang.html)  |
+| 5         | Komponen Button — Dice Roller                           | `week-5/DiceRoller`              | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-5-ppb-komponen-button-dice.html)    |
+| 6         | Membuat Aplikasi Kalkulator Sederhana                   | `week-6/Calculator`              | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-6-ppb-membuat-aplikasi.html)        |
+| 7         | Membuat Halaman Simple Login                            | `week-7/MyLogin`                 | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-7-ppb-membuat-halaman-simple.html)  |
+| ETS       | Evaluasi Tengah Semester — Mini Project Money Notes App | `ets/MoneyNotesApp`              | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/04/mini-project-money-notes-app.html)            |
+| 11        | Membuat Aplikasi Marketplace Siswa                      | `week-11/MarketSiswa`            | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-8-ppb-membuat-aplikasi.html)        |
+| 12        | Membuat Aplikasi Login Menggunakan MVVM                 | `week-12/LoginMVVMApp`           | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-12-ppb-membuat-aplikasi-login.html) |
+| 13        | Membuat Aplikasi Registrasi Siswa                       | `week-13/StudentRegistrationApp` | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-13-ppb-membuat-aplikasi.html)       |
+| 14        | Membuat Aplikasi Berita Menggunakan REST API            | `week-14/NewsPulseApp`           | [Buka Blog](https://aikathatappbclass.blogspot.com/2026/06/pertemuan-14-ppb-membuat-aplikasi.html)       |
 
 ---
 
@@ -110,6 +111,10 @@ Aplikasi kalkulator sederhana yang dapat melakukan operasi penjumlahan, penguran
 ### Week 7 — MyLogin
 
 Aplikasi halaman login sederhana dengan input email dan password. Tampilan dibuat lebih menarik dengan gambar karakter dan ikon login sosial.
+
+### ETS — MoneyNotesApp
+
+Mini project Evaluasi Tengah Semester berupa aplikasi pencatatan keuangan sederhana. Aplikasi ini digunakan untuk mencatat pemasukan dan pengeluaran, menampilkan daftar transaksi, serta membantu pengguna memantau catatan keuangan secara praktis melalui aplikasi Android.
 
 ### Week 11 — MarketSiswa
 
